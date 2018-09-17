@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "Yea, haven't gotten this far but how cares, right?"
-date:       2018-09-17 04:30:30 +0000
+date:       2018-09-17 00:30:31 -0400
 permalink:  yea_havent_gotten_this_far_but_how_cares_right
 ---
 
